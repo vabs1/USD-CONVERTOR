@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  width: 50%;
+}
+
+
+.amount input {
+  padding: 10px;
+}
+
+.from{
+  text-align:right;
+}
+
+.container {
+  background: lightgray;
+  margin: 20px;
+  padding: 20px;
+}
+
+.content {
+  font-size:1.2em;
+  background: white;
+  padding: 40px;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+
+.title {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 10px;
+}
